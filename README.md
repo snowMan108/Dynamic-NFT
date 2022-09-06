@@ -1,7 +1,5 @@
 # Chainlink Truffle Box
 
-> https://www.youtube.com/watch?v=EzZEx0lumr0
-
 > Dungeions and Dragons contract: https://rinkeby.etherscan.io/address/0x701b30e05A372B5FA75D4DbC70aa8B64beA3494f
 
 > Character on Opensea: https://testnets.opensea.io/assets/0x701b30e05a372b5fa75d4dbc70aa8b64bea3494f/0
